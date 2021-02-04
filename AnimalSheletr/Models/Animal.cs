@@ -25,6 +25,7 @@ namespace AnimalSheletr.Models
         [DisplayName("Пол")]
         public string Gender { get; set; }
 
+
         [DisplayName("Кличка")]
         public string Nickname { get; set; }
 
